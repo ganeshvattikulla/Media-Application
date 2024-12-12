@@ -28,4 +28,4 @@ This is a social media application built using Spring Boot and Hibernate. The ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/social-media-application.git
+   git clone https://github.com/ganeshvattikulla/Media-Application.git
